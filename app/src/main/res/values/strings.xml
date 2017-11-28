@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Computer Fundamentals Quiz</string>
+
+    <string name="question1">1. Which of the following languages is more suited to a structured program?</string>
+    <string name="question1_choice1">PL/1</string>
+    <string name="question1_choice2">FORTRAN</string>
+    <string name="question1_choice3">PASCAL</string>
+    <string name="question1_choice4">BASIC</string>
+
+    <string name="question2">2. Which of the following computer language is used for artificial intelligence?</string>
+
+    <string name="question3">3. The two typical components of a CPU are </string>
+    <string name="question3_choice1">ALU</string>
+    <string name="question3_choice2">Keyboard</string>
+    <string name="question3_choice3">CU</string>
+    <string name="question3_choice4">Mouse</string>
+
+    <string name="question4">4. The tracks on a disk which can be accessed without repositioning the R/W heads is</string>
+
+    <string name="question5">5. What difference does the 5th generation computer have from other generation computers?</string>
+    <string name="question5_choice1">Scientific code</string>
+    <string name="question5_choice2">Technological advancement</string>
+    <string name="question5_choice3">Object Oriented Programming</string>
+    <string name="question5_choice4">All of the above</string>
+
+    <string name="question6">6. A program component that allows structuring of a program in an unusual way is known as</string>
+
+    <string name="question7">7. There are two types of storage devices used with computers,such as</string>
+    <string name="question7_choice1">Headset</string>
+    <string name="question7_choice2">PSU</string>
+    <string name="question7_choice3">RAM</string>
+    <string name="question7_choice4">Hard Drive</string>
+
+    <string name="question8">8. The term referring to evacuating the content of some part of the machine is known as</string>
+
+    <string name="question9">9. A single packet on a data link is known as</string>
+    <string name="question9_choice1">Path</string>
+    <string name="question9_choice2">Frame</string>
+    <string name="question9_choice3">Block</string>
+    <string name="question9_choice4">Group</string>
+
+    <string name="question10">10. The process of communicating with a file from a terminal is</string>
+
+    <string name="answer1">The answer is PASCAL. </string>
+    <string name="answer2">The answer is PROLOG. </string>
+    <string name="answer3">The answer are ALU and CU. </string>
+    <string name="answer4">The answer is Cylinder. </string>
+    <string name="answer5">The answer is Technological advancement. </string>
+    <string name="answer6">The answer is Coroutine. </string>
+    <string name="answer7">The answer are RAM and Hard Drive. </string>
+    <string name="answer8">The answer is Dump. </string>
+    <string name="answer9">The answer is Frame. </string>
+    <string name="answer10">The answer is Interrogation. </string>
+    <string name="credit"> created by Irfan\n irfanlangang@gmail.com </string>
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="explanation">Show Explanation</string>
+
+
+</resources>
